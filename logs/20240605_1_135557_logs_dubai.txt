@@ -1,0 +1,7 @@
+Request Url:http://pre2.top.one/gateway/v1/contract-order/order
+Request Body:{'price': '0', 'margin': 117.43634, 'side': 1, 'order_type': 10, 'user_type': 1, 'margin_mode': 2, 'leverage': 100, 'contract_code': 'ETH/USDT', 'platform': 'web', 'offset': 1, 'is_limit_order': 2, 'close_type': 1, 'stop_loss_orders': [{'order_type': 31, 'profit_rate': '3'}, {'order_type': 36, 'profit_rate': '0.75'}]}
+現在時間：13:57:32
+UID(Top One):OOOOOOJY/Fameex UID:88649100
+下單失敗
+response內容:b'404 page not found'
+================
