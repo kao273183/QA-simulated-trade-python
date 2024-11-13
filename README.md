@@ -3,11 +3,13 @@
 ## 檔案結構如下
 
 
-* data-Fameex原數據
+* data--原數據
 
-* function-轉換資料、下單模擬腳本
+* function-轉換資料、下單模擬腳本(分成台灣＆杜拜版本)
 
 * outputCSV-輸出CSV
+
+* reportExcel-報表
 
 ### 流程說明：
 
